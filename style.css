@@ -28,7 +28,7 @@ body {
 
   .name p{
     
-    font-family: muli;
+    font-family: 'Muli', serif;
     font-weight: 650;
     font-size: 50;
   }
@@ -44,7 +44,7 @@ body {
 
 
   .skills p{
-      font-family: muli;
+      font-family: 'Muli', serif;
       line-height: 2.25;
       letter-spacing: 1px;
   }
