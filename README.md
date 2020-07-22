@@ -1,7 +1,5 @@
 # JOSHHAOKIP.COM
 
-### Check it out
-
 www.joshhaokip.com
 
 This is one of my first projects that involved coding a website from scratch based on a design I created. It proved to be quite difficult in terms of coding different parts of the site - a lot of time was spent on youtube and google to solve some issues such as alignment. The project was especially exciting as it was the first time I had created a website that used my own personal domain, which provided its own challenges. 
